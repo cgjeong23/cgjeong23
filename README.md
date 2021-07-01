@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Chaeghang Jeong, Brian. I am a year 11 student in North London Collegiate School Jeju. 
 
+[![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/w_c0rkd.py/")](https://www.instagram.com/w_c0rkd.py/)
 
 [![CG's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgjeong23)](https://github.com/anuraghazra/github-readme-stats)
 
