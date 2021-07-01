@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Chaeghang Jeong, Brian. I am a year 11 student in North London Collegiate School Jeju. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgjeong23](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cgjeong23/cgjeong23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
