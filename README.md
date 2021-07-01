@@ -4,6 +4,7 @@ My name is Chaeghang Jeong, Brian. I am a year 11 student in North London Colleg
 
 [![CG's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgjeong23)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=caylus)](https://solved.ac/caylus)
 
 <!--
 **cgjeong23/cgjeong23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
