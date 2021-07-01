@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Chaeghang Jeong, Brian. I am a year 11 student in North London Collegiate School Jeju. 
 
 <!--
 **cgjeong23/cgjeong23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
